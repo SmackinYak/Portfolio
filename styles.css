@@ -1,0 +1,60 @@
+html {
+    background-color: #555555;
+}
+
+body {
+    color: #EEEEEE;
+    margin: 0;
+}
+
+h1, h2 {
+    font-family: cursive;
+    margin: 0;
+}
+
+.header {
+    background-color: #43a897;
+    width: 100%;
+    text-align: center;
+    border-radius: 12px;
+    width: 50%;
+    margin: auto;
+}
+
+.header:hover {
+    color: red;
+}
+
+head {
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+    height: 55px;
+    align-items: center;
+    background-color: salmon ;
+}
+ 
+.navbar li {
+    font-size: x-large;
+    font-weight: 800;
+    font-family: cursive;
+}
+
+.navbar li a {
+    color: black;
+}
+
+p {
+    margin-left: 24px;
+    font-size: x-large;
+}
+
+li {
+    font-size: x-large;
+}
